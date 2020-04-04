@@ -1,0 +1,2 @@
+Horses_Humans dataset link   Training set : https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
+                             Test set     : https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
